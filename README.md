@@ -26,3 +26,11 @@ To run this project's frontend, install it locally using npm:
  npm install
  npm start
  ```
+## Demo
+The live version of the app:
+[An Internal Link](https://todo-476e5.web.app/)
+
+### Demo Screnshots
+![alt text](https://github.com/Kemboi-Dun/Basic-TODO/blob/main/media/index.png?raw=true)
+
+![alt text](https://github.com/Kemboi-Dun/Basic-TODO/blob/main/media/modal.png?raw=true)
